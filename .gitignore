@@ -1,0 +1,13 @@
+target/
+.classpath
+.project
+.settings/
+.DS_Store
+build/
+logs/
+*.log
+temp-*
+/.apt_generated/
+bin/
+/.idea/
+*.iml
